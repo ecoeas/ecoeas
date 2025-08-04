@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyumi Ranathunga</h1>
-<h3 align="center">I'm Undergraduate Higher National Diploma in Information Technology at SLIATEtion Technology
+<h3 align="center">I'm Undergraduate Higher National Diploma in Information Technology at SLIATEtion Technology<br>
 
 
 
