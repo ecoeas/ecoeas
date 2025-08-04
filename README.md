@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piyumi Ranathunga</h1>
-<h3 align="center">I'm Undergraduate Higher National Diploma in Information Technology at SLIATEtion Technology</h3>
+<h3 align="center">I'm Undergraduate Higher National Diploma in Information Technology at SLIATEtion Technology
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
