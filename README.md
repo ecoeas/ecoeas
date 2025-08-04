@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ecoeas&label=Profile%20views&color=0e75b6&style=flat" alt="ecoeas" /> </p>
 
-- 🌱 I’m currently learning **Higher National Diploma in Information Technology**
+<p align="center">- 🌱 I’m currently learning **Higher National Diploma in Information Technology**
 
-- 📫 How to reach me **piyumiranathunga6@gmail.com**
+<p align="center">- 📫 How to reach me **piyumiranathunga6@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
