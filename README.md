@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Piyumi Ranathunga</h1>
 <h3 align="center">I'm Undergraduate Higher National Diploma in Information Technology at SLIATEtion Technology</h3>
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="167">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+</picture>  
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ecoeas&label=Profile%20views&color=0e75b6&style=flat" alt="ecoeas" /> </p>
 
 <p align="center">- 🌱 I’m currently learning **Higher National Diploma in Information Technology**
